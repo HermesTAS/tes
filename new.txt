@@ -3,8 +3,6 @@
  * Version: 1.0.2
  */
 
-New file
-develop
 1233456
 
 this text from development
