@@ -8,7 +8,3 @@ develop
 1233456
 
 this text from development
-
-new line
-
-more line
